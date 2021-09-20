@@ -1,5 +1,5 @@
 {
-  "extends": ["wantedly-typescript"],
+  "extends": ["wantedly-typescript", "next/core-web-vitals"],
   "parserOptions": {
     "project": ["./tsconfig.json"]
   }
